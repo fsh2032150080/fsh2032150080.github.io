@@ -1,7 +1,0 @@
-@charset "utf-8";
-<!--“主页样式”-->
-title {
-  font-family: "Smiley Sans";
-  src:
-    url("fonts\smiley-sans-v2.0.1\SmileySans-Oblique.otf.woff2") format("woff2"),
-}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+<!--“主页样式”-->
+title
+{
+  font-family: "Smiley Sans";
+  src:
+    url("fonts\smiley-sans-v2.0.1\SmileySans-Oblique.otf.woff2") format("woff2");
+}
+.banner {
+    font-family: "Smiley Sans";
+    font-size: 48px;
+    text-align: center;
+}
+a:link {
+color: black;
+} /* 未访问的链接 */
+a:visited {
+    color: black;
+} /* 已访问的链接 */
+a:hover {
+    color: aliceblue;
+} /* 鼠标悬停时的链接 */
+a:active {
+    color: aliceblue;
+} /* 激活状态的链接 */
